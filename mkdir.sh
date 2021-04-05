@@ -5,7 +5,7 @@ else
     exit
 fi
 
-mkdir $PROBLEM
-cd $PROBLEM
+mkdir solutions/$PROBLEM
+cd solutions/$PROBLEM
 touch "${PROBLEM}.py"
 touch "${PROBLEM}.js"

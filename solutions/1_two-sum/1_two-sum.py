@@ -1,3 +1,4 @@
+# å“ˆå¸Œè¡¨
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         d = dict()
@@ -5,5 +6,5 @@ class Solution:
         for i in range(len(nums)):
             if target - nums[i] in d.keys():
                 return [d[target-nums[i]], i]
-                # ÐòºÅÐ¡µÄ·ÅÇ°Ãæ
+                # ï¿½ï¿½ï¿½Ð¡ï¿½Ä·ï¿½Ç°ï¿½ï¿½
             d[nums[i]] = i
