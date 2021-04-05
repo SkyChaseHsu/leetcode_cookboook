@@ -2,12 +2,12 @@ import urllib.request
 import random
 import requests
 import os
-from lxml import html
+from lxml import etree
 
 def get_user_agent():
-	'''
+	"""
 	随机获取一个agent
-	'''
+	"""
 
 	# agent池
 	agent_pool = [
@@ -22,15 +22,6 @@ def get_user_agent():
 
 
 def get_titles(target_url, rule):
-	'''
-	获取target_url页面中的所有图片链接，以img_urls列表返回
-
-	参数：
-		- img_rule: 目标图片的xpath, 默认是爬取所有图片
-	'''
-	# 開始提示
-	print(">> 开始获取图片链接...")
-
 	# agent池
 	header = {'User-Agent':get_user_agent()}
 
@@ -38,15 +29,18 @@ def get_titles(target_url, rule):
 	req = requests.get(url=target_url, headers=header)
 	req.encoding = req.apparent_encoding
 
+	# etree解析内容
 	etree = html.etree
-	req_html = etree.HTML(req.content)	# etree解析内容
+	req_html = etree.HTML(req.content)
 
 	# 解析出图片的链接
-	titles = req_html.xpath(rule)
+	content = req_html.xpath(rule)
 
-	return titles
+	return content
+
 
 if __name__ == "__main__":
+
 	nums = get_titles("https://books.halfrost.com/leetcode/ChapterTwo/Array/", ".//article/table/tbody/tr/td[1]/text()")
 	problems = get_titles("https://books.halfrost.com/leetcode/ChapterTwo/Array/", ".//article/table/tbody/tr/td[2]/text()")
 
