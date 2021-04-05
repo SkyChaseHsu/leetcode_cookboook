@@ -54,12 +54,13 @@
             <td><font color="green">中等</font></td>
             <td></td>
         </tr>
-        <tr>
+        <tr bgcolor="lightgreen">
             <td>26</td>
             <td><a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array">删除有序数组中的重复项</a></td>
-            <td></td>
+            <td>双指针
+</td>
             <td><font color="blue">简单</font></td>
-            <td></td>
+            <td>✓</td>
         </tr>
         <tr>
             <td>27</td>
@@ -439,12 +440,13 @@
             <td><font color="green">中等</font></td>
             <td></td>
         </tr>
-        <tr>
+        <tr bgcolor="lightgreen">
             <td>268</td>
             <td><a href="https://leetcode-cn.com/problems/missing-number">丢失的数字</a></td>
-            <td></td>
+            <td>数学
+</td>
             <td><font color="blue">简单</font></td>
-            <td></td>
+            <td>✓</td>
         </tr>
         <tr>
             <td>283</td>
@@ -460,12 +462,13 @@
             <td><font color="green">中等</font></td>
             <td></td>
         </tr>
-        <tr>
+        <tr bgcolor="lightgreen">
             <td>414</td>
             <td><a href="https://leetcode-cn.com/problems/third-maximum-number">第三大的数</a></td>
-            <td></td>
+            <td>哈希表
+</td>
             <td><font color="blue">简单</font></td>
-            <td></td>
+            <td>✓</td>
         </tr>
         <tr>
             <td>448</td>
@@ -488,12 +491,13 @@
             <td><font color="blue">简单</font></td>
             <td></td>
         </tr>
-        <tr>
+        <tr bgcolor="lightgreen">
             <td>509</td>
             <td><a href="https://leetcode-cn.com/problems/fibonacci-number">斐波那契数</a></td>
-            <td></td>
+            <td>动态规划
+</td>
             <td><font color="blue">简单</font></td>
-            <td></td>
+            <td>✓</td>
         </tr>
         <tr>
             <td>532</td>
@@ -530,12 +534,13 @@
             <td><font color="blue">简单</font></td>
             <td></td>
         </tr>
-        <tr>
+        <tr bgcolor="lightgreen">
             <td>628</td>
             <td><a href="https://leetcode-cn.com/problems/maximum-product-of-three-numbers">三个数的最大乘积</a></td>
-            <td></td>
+            <td>数学
+</td>
             <td><font color="blue">简单</font></td>
-            <td></td>
+            <td>✓</td>
         </tr>
         <tr>
             <td>643</td>
