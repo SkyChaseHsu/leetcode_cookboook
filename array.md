@@ -318,19 +318,21 @@
             <td><font color="green">中等</font></td>
             <td></td>
         </tr>
-        <tr>
+        <tr bgcolor="lightgreen">
             <td>121</td>
             <td><a href="https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock">买卖股票的最佳时机</a></td>
-            <td></td>
+            <td>动态规划
+</td>
             <td><font color="blue">简单</font></td>
-            <td></td>
+            <td>✓</td>
         </tr>
-        <tr>
+        <tr bgcolor="lightgreen">
             <td>122</td>
             <td><a href="https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii">买卖股票的最佳时机 II</a></td>
-            <td></td>
+            <td>动态规划
+</td>
             <td><font color="blue">简单</font></td>
-            <td></td>
+            <td>✓</td>
         </tr>
         <tr>
             <td>126</td>
