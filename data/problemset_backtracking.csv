@@ -1,0 +1,75 @@
+10,正则表达式匹配,regular-expression-matching,https://leetcode-cn.com/problems/regular-expression-matching,困难
+17,电话号码的字母组合,letter-combinations-of-a-phone-number,https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number,中等
+22,括号生成,generate-parentheses,https://leetcode-cn.com/problems/generate-parentheses,中等
+37,解数独,sudoku-solver,https://leetcode-cn.com/problems/sudoku-solver,困难
+39,组合总和,combination-sum,https://leetcode-cn.com/problems/combination-sum,中等
+40,组合总和 II,combination-sum-ii,https://leetcode-cn.com/problems/combination-sum-ii,中等
+44,通配符匹配,wildcard-matching,https://leetcode-cn.com/problems/wildcard-matching,困难
+46,全排列,permutations,https://leetcode-cn.com/problems/permutations,中等
+47,全排列 II,permutations-ii,https://leetcode-cn.com/problems/permutations-ii,中等
+51,N 皇后,n-queens,https://leetcode-cn.com/problems/n-queens,困难
+52,N皇后 II,n-queens-ii,https://leetcode-cn.com/problems/n-queens-ii,困难
+60,排列序列,permutation-sequence,https://leetcode-cn.com/problems/permutation-sequence,困难
+77,组合,combinations,https://leetcode-cn.com/problems/combinations,中等
+78,子集,subsets,https://leetcode-cn.com/problems/subsets,中等
+79,单词搜索,word-search,https://leetcode-cn.com/problems/word-search,中等
+89,格雷编码,gray-code,https://leetcode-cn.com/problems/gray-code,中等
+90,子集 II,subsets-ii,https://leetcode-cn.com/problems/subsets-ii,中等
+93,复原 IP 地址,restore-ip-addresses,https://leetcode-cn.com/problems/restore-ip-addresses,中等
+126,单词接龙 II,word-ladder-ii,https://leetcode-cn.com/problems/word-ladder-ii,困难
+131,分割回文串,palindrome-partitioning,https://leetcode-cn.com/problems/palindrome-partitioning,中等
+140,单词拆分 II,word-break-ii,https://leetcode-cn.com/problems/word-break-ii,困难
+211,添加与搜索单词 - 数据结构设计,design-add-and-search-words-data-structure,https://leetcode-cn.com/problems/design-add-and-search-words-data-structure,中等
+212,单词搜索 II,word-search-ii,https://leetcode-cn.com/problems/word-search-ii,困难
+216,组合总和 III,combination-sum-iii,https://leetcode-cn.com/problems/combination-sum-iii,中等
+254,因子的组合,factor-combinations,https://leetcode-cn.com/problems/factor-combinations,中等
+267,回文排列 II,palindrome-permutation-ii,https://leetcode-cn.com/problems/palindrome-permutation-ii,中等
+291,单词规律 II,word-pattern-ii,https://leetcode-cn.com/problems/word-pattern-ii,中等
+294,翻转游戏 II,flip-game-ii,https://leetcode-cn.com/problems/flip-game-ii,中等
+306,累加数,additive-number,https://leetcode-cn.com/problems/additive-number,中等
+320,列举单词的全部缩写,generalized-abbreviation,https://leetcode-cn.com/problems/generalized-abbreviation,中等
+351,安卓系统手势解锁,android-unlock-patterns,https://leetcode-cn.com/problems/android-unlock-patterns,中等
+357,计算各个位数不同的数字个数,count-numbers-with-unique-digits,https://leetcode-cn.com/problems/count-numbers-with-unique-digits,中等
+401,二进制手表,binary-watch,https://leetcode-cn.com/problems/binary-watch,简单
+411,最短独占单词缩写,minimum-unique-word-abbreviation,https://leetcode-cn.com/problems/minimum-unique-word-abbreviation,困难
+425,单词方块,word-squares,https://leetcode-cn.com/problems/word-squares,困难
+526,优美的排列,beautiful-arrangement,https://leetcode-cn.com/problems/beautiful-arrangement,中等
+691,贴纸拼词,stickers-to-spell-word,https://leetcode-cn.com/problems/stickers-to-spell-word,困难
+784,字母大小写全排列,letter-case-permutation,https://leetcode-cn.com/problems/letter-case-permutation,中等
+797,所有可能的路径,all-paths-from-source-to-target,https://leetcode-cn.com/problems/all-paths-from-source-to-target,中等
+842,将数组拆分成斐波那契序列,split-array-into-fibonacci-sequence,https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence,中等
+967,连续差相同的数字,numbers-with-same-consecutive-differences,https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences,中等
+980,不同路径 III,unique-paths-iii,https://leetcode-cn.com/problems/unique-paths-iii,困难
+996,正方形数组的数目,number-of-squareful-arrays,https://leetcode-cn.com/problems/number-of-squareful-arrays,困难
+1066,校园自行车分配 II,campus-bikes-ii,https://leetcode-cn.com/problems/campus-bikes-ii,中等
+1079,活字印刷,letter-tile-possibilities,https://leetcode-cn.com/problems/letter-tile-possibilities,中等
+1087,花括号展开,brace-expansion,https://leetcode-cn.com/problems/brace-expansion,中等
+1088,易混淆数 II,confusing-number-ii,https://leetcode-cn.com/problems/confusing-number-ii,困难
+1215,步进数,stepping-numbers,https://leetcode-cn.com/problems/stepping-numbers,中等
+1219,黄金矿工,path-with-maximum-gold,https://leetcode-cn.com/problems/path-with-maximum-gold,中等
+1239,串联字符串的最大长度,maximum-length-of-a-concatenated-string-with-unique-characters,https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters,中等
+1240,铺瓷砖,tiling-a-rectangle-with-the-fewest-squares,https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares,困难
+1258,近义词句子,synonymous-sentences,https://leetcode-cn.com/problems/synonymous-sentences,中等
+1286,字母组合迭代器,iterator-for-combination,https://leetcode-cn.com/problems/iterator-for-combination,中等
+1291,顺次数,sequential-digits,https://leetcode-cn.com/problems/sequential-digits,中等
+1307,口算难题,verbal-arithmetic-puzzle,https://leetcode-cn.com/problems/verbal-arithmetic-puzzle,困难
+1415,长度为 n 的开心字符串中字典序第 k 小的字符串,the-k-th-lexicographical-string-of-all-happy-strings-of-length-n,https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n,中等
+1467,两个盒子中球的颜色数相同的概率,probability-of-a-two-boxes-having-the-same-number-of-distinct-balls,https://leetcode-cn.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls,困难
+1593,拆分字符串使唯一子字符串的数目最大,split-a-string-into-the-max-number-of-unique-substrings,https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings,中等
+1617,统计子树中城市之间最大距离,count-subtrees-with-max-distance-between-cities,https://leetcode-cn.com/problems/count-subtrees-with-max-distance-between-cities,困难
+1641,统计字典序元音字符串的数目,count-sorted-vowel-strings,https://leetcode-cn.com/problems/count-sorted-vowel-strings,中等
+1655,分配重复整数,distribute-repeating-integers,https://leetcode-cn.com/problems/distribute-repeating-integers,困难
+1659,最大化网格幸福感,maximize-grid-happiness,https://leetcode-cn.com/problems/maximize-grid-happiness,困难
+1681,最小不兼容性,minimum-incompatibility,https://leetcode-cn.com/problems/minimum-incompatibility,困难
+1688,比赛中的配对次数,count-of-matches-in-tournament,https://leetcode-cn.com/problems/count-of-matches-in-tournament,简单
+1718,构建字典序最大的可行序列,construct-the-lexicographically-largest-valid-sequence,https://leetcode-cn.com/problems/construct-the-lexicographically-largest-valid-sequence,中等
+1723,完成所有工作的最短时间,find-minimum-time-to-finish-all-jobs,https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs,困难
+1780,判断一个数字是否可以表示成三的幂的和,check-if-number-is-a-sum-of-powers-of-three,https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three,中等
+1799,N 次操作后的最大分数和,maximize-score-after-n-operations,https://leetcode-cn.com/problems/maximize-score-after-n-operations,困难
+剑指 Offer 38,字符串的排列,zi-fu-chuan-de-pai-lie-lcof,https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof,中等
+面试题 08.04,幂集,power-set-lcci,https://leetcode-cn.com/problems/power-set-lcci,中等
+面试题 08.07,无重复字符串的排列组合,permutation-i-lcci,https://leetcode-cn.com/problems/permutation-i-lcci,中等
+面试题 08.08,有重复字符串的排列组合,permutation-ii-lcci,https://leetcode-cn.com/problems/permutation-ii-lcci,中等
+面试题 08.09,括号,bracket-lcci,https://leetcode-cn.com/problems/bracket-lcci,中等
+面试题 08.12,八皇后,eight-queens-lcci,https://leetcode-cn.com/problems/eight-queens-lcci,困难
+面试题 08.13,堆箱子,pile-box-lcci,https://leetcode-cn.com/problems/pile-box-lcci,困难
